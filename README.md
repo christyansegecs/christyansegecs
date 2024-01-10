@@ -1,10 +1,16 @@
 # 💫 Sobre mim:
 
-Sou apaixonado por tecnologia e atuo como Desenvolvedor Android. Sou bastante nerd e também adoro conversar sobre livros, games e séries.
+Me chamo Christyan Segecs e sou Dev Android e Front End. Sou especializado em desenvolvimento, implantação e manutenção de aplicações de Android Nativo. Mas atualmente tenho focado meus estudos em Front End e desenvolvimento Mobile híbrido, como Flutter e React Native.
 
-**Atualmente:** Atuo como Desenvolvedor Android Nativo utilizando Kotlin, mas também consigo codar em Java. E estou finalizando um projeto para publicar um app na Play Store.
+ Estou cursando Engenharia de Software e estou sempre disposto a aprender novas tecnologias e aceitar novos desafios. Minha última experiência em programação foi atuando com desenvolvimento Android no Banco Itaú, e agora, estou buscando novas oportunidades para aprimorar meus conhecimentos e habilidades.
 
-**Estudando:** Tenho bastante conhecimento em Android, mas falta aprender um pouco mais sobre Jetpack Compose e Kotlin Multiplataforma. Também estou me dedicando bastante em Web Design Full Stack e desenvolvimento em iOS. Flutter também está na minha lista.
+ Eu sou um profissional organizado e colaborativo, que gosta de trabalhar em equipe e criar boas conexões com os membros da equipe e clientes. Também sou muito focado em aprender e me desenvolver continuamente como profissional e ser humano.
+
+ Acredito que o trabalho em equipe é fundamental para o sucesso de qualquer projeto e faço o possível para promover um ambiente de colaboração e aprendizado contínuo. Agradeço seu interesse no meu perfil e aguardo ansiosamente para discutir como posso contribuir para a sua equipe.
+
+Atenciosamente :D
+
+Christyan Segecs
 
 # 📧 Contato:
 
