@@ -8,7 +8,7 @@ Me chamo Christyan Segecs e sou Dev Android e Front End. Sou especializado em de
 
  Acredito que o trabalho em equipe é fundamental para o sucesso de qualquer projeto e faço o possível para promover um ambiente de colaboração e aprendizado contínuo. Agradeço seu interesse no meu perfil e aguardo ansiosamente para discutir como posso contribuir para a sua equipe.
 
-Atenciosamente :D
+Obrigado pelo interesse no meu perfil! :D
 
 Christyan Segecs
 
